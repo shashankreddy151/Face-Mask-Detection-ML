@@ -1,4 +1,3 @@
 # Face-Mask-Detection-ML
 
-Machine 
-learning
+Machine learning
