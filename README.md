@@ -1,3 +1,3 @@
 # Face-Mask-Detection-ML
 
-Machine learning
+Trained a ML model which can detect face mask.
